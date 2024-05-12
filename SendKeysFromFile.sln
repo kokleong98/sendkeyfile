@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendKeysFromFile", "SendKeysFromFile\SendKeysFromFile.csproj", "{EE2A0D7E-1EC3-4756-94BB-576CC3115371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2A0D7E-1EC3-4756-94BB-576CC3115371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2A0D7E-1EC3-4756-94BB-576CC3115371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2A0D7E-1EC3-4756-94BB-576CC3115371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2A0D7E-1EC3-4756-94BB-576CC3115371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA82A9D-01D0-490E-BAE5-4A6A6C60FB81}
+	EndGlobalSection
+EndGlobal
